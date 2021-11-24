@@ -1,0 +1,2 @@
+# AzureCloudDev
+azure function demo
